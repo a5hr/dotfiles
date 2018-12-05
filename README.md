@@ -3,6 +3,7 @@
 ## List
 
 * tmux
+* maxos
 
 ## Install
 
